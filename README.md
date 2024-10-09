@@ -1,4 +1,4 @@
-# Hi there, I'm [Waqar Hussain]! 👋
+# Hi there, I'm Waqar Hussain! 👋
 
 [![GitHub Banner](https://your-banner-image-link.com)](https://your-link.com)
 
@@ -22,13 +22,13 @@ I'm a passionate **React Developer** with expertise in building responsive and i
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=waqarabaaj&show_icons=true&hide_border=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waqarabaaj&layout=compact&theme=radical)](https://github.com/waqarabaaj/github-readme-stats)
 
 ## 📫 How to Reach Me
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin/) 📩
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/waqarhussain-reactjs/) 📩
 - Check out my portfolio at [your-portfolio.com](https://your-portfolio.com)
 
 ---
